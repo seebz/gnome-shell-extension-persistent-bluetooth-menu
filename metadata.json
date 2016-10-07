@@ -1,0 +1,10 @@
+{
+	"uuid": "persistent-bluetooth-menu@seebz.net",
+	"name": "Persistent Bluetooth Menu",
+	"description": "Force the Bluetooth menu to appear even with Bluetooth turned off.",
+	"url": "https://github.com/Seebz/gnome-shell-extension-persistent-bluetooth-menu",
+	"version": "1.0",
+	"shell-version": [
+		"3.18"
+	]
+}
