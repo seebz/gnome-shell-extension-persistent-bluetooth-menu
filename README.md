@@ -11,6 +11,10 @@ This [GNOME Shell](http://live.gnome.org/GnomeShell) extension simply forces the
 
 ## Installation
 
+### Using install.sh
+
+Run `install.sh` and follow the instructions.
+
 ### Manual Installation
 
 1. Move/rename this folder to `~/.local/share/gnome-shell/extensions/persistent-bluetooth-menu@seebz.net`
@@ -23,7 +27,7 @@ This [GNOME Shell](http://live.gnome.org/GnomeShell) extension simply forces the
 - [ ] Test and support more GNOME Shell versions
 - [ ] Add a `Turn On` menu entry
 - [ ] Improve the code
-- [ ] Provide an installation script
+- [x] Provide an installation script
 
 
 ## License
